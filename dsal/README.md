@@ -9,3 +9,7 @@
 
 * Stack
 * Queues
+
+## Trees
+
+* Binary Tree
